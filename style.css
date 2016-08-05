@@ -8,10 +8,9 @@
 #header {
 	background-color: green;
 	height: 100px;
-	margin-bottom: 20px;
-}
+	
 
-#left,#main {
+#main {
 	display: inline-block;
 	vertical-align: top;
 }
